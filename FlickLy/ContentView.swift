@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  FlickLy
 //
-//  Created by Ali Aslam on 29/07/2023.
+//  Created by Muhammad Zeeshan on 29/07/2023.
 //
 
 import SwiftUI

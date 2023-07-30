@@ -2,7 +2,7 @@
 //  FlickLyApp.swift
 //  FlickLy
 //
-//  Created by Ali Aslam on 29/07/2023.
+//  Created by Muhammad Zeeshan on 29/07/2023.
 //
 
 import SwiftUI
@@ -11,7 +11,8 @@ import SwiftUI
 struct FlickLyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            let _ = AppConfiguration.environment
+            MoviesView()
         }
     }
 }
